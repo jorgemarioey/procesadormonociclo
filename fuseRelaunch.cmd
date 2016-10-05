@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/utp.CRIE/Desktop/procesadormonociclo/procesadormonociclo/test_mpc_isim_beh.exe" -prj "C:/Users/utp.CRIE/Desktop/procesadormonociclo/procesadormonociclo/test_mpc_beh.prj" "work.test_mpc" 
